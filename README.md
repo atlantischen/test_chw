@@ -10,3 +10,19 @@ hooks---业务逻辑
 store---状态管理
 utils---工具
 
+## Run / Develop
+
+```
+
+npm run dev
+
+```
+
+## Build
+
+```
+
+npm run build
+
+```
+
